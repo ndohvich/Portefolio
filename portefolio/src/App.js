@@ -2,7 +2,7 @@ import React from 'react';
 import "./App.css";
 import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/home';
-import About from './components/about/About';
+import Propos from './components/propos/propos'
 import Services from './services/Services';
 import Resume from './components/resume/Resume';
 import Portfolio from './components/portfolio/Portfolio';
@@ -17,7 +17,7 @@ const App = () => {
       <Sidebar />
       <main className="main">
         <Home />
-        <About />
+        <Propos />
         <Services />
         <Resume />
         <Portfolio/>
