@@ -3,7 +3,7 @@ import "./App.css";
 import Sidebar from './components/sidebar/Sidebar';
 import Home from './components/home/home';
 import Propos from './components/propos/propos'
-import Services from './services/Services';
+import Services from './components/services/Services'
 import Resume from './components/resume/Resume';
 import Portfolio from './components/portfolio/Portfolio';
 import Pricing from './components/pricing/Pricing';
