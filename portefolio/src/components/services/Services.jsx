@@ -37,7 +37,7 @@ const data = [
 
 function Services() {
   return (
-    <section className="services__container container section">
+    <section className="services__container container section" id="services">
       <h2 className="section__title">Services</h2>
 
       <div className="services__container grid">
