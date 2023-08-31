@@ -18,7 +18,10 @@ function propos() {
               I have experience in web site design and building, 
               also i am good Data science and python web developer.
             </p>
-            <a href="www.p.com" className="btn">DownLoad CV</a>
+            <a href="../../assets/cv/web_dev.pdf" className="btn web_dev">CV Web Development</a>
+            <a href="../../assets/cv/web_dev.pdf" className="btn php_dev">CV Symfony/PHP Development</a>
+            <a href="../../assets/cv/web_dev.pdf" className="btn data_science">CV Data Science</a>
+            <a href="../../assets/cv/web_dev.pdf" className="btn python_dev">CV Python Development</a>
           </div>
 
           <div className="about__skills_grid">

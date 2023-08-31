@@ -127,6 +127,8 @@ img{
   display: inline-block;
   background-color: var(--first-color);
   font-weight: var(--font-bold);
+  margin-bottom: 10px;
+  text-align: center;
 }
 
 @keyframes button-push {

@@ -70,9 +70,21 @@
     background-color: rgb(255, 209, 92);
 }
 
+.web_dev{
+    background-color: rgb(255, 209, 92);
+}
+
+.data_science{
+    background-color: rgb(108, 108, 299);
+}
+
 .symfony_php{
     width: 80%;
     background-color: rgb(255, 76, 96);
+}
+
+.python_dev{
+    background-color: rgb(141, 200, 92);
 }
 
 .data_science{
