@@ -23,8 +23,8 @@ const HeaderSocials = () => {
             <i class="fa-brands fa-youtube"></i>
         </a>
 
-        <a href="www.behance.com" className="home__social-link" target='_blank'>
-            <i class="fa-brands fa-behance"></i>
+        <a href="https://github.com/ndohvich" className="home__social-link">
+            <i class="fa-brands fa-github"></i>
         </a>
 
         <a href="www.pinterest.com" className="home__social-link" target='_blank'>
